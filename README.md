@@ -5,7 +5,7 @@ I didn’t just choose software development; in many ways, it chose me. When I w
 Currently studying at the **University of Nigeria, Nsukka**, I rely on deep personal research to push the boundaries of what is possible with code. My goal hasn't changed: **I want to build things that make life a little bit easier for people.**
 
 📍 **Location:** Nigeria  
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/tobyzprof21/) | [Email](mailto:tobennaike21@gmail.com)
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/tobennaike/) | [Email](mailto:tobennaike21@gmail.com)
 
 ---
 
@@ -63,6 +63,6 @@ Here are projects that reflect my ability to turn small ideas into scalable plat
 
 I am open to collaborative projects and opportunities where I can apply my skills to solve real problems.
 
-* [LinkedIn](https://www.linkedin.com/in/tobyzprof21/)
+* [LinkedIn](https://www.linkedin.com/in/tobennaike/)
 * [X / Twitter](https://x.com/StrykCorp)
 * [Email](mailto:tobennaike21@gmail.com)
