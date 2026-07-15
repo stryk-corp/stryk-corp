@@ -56,6 +56,7 @@ Here are projects that reflect my ability to turn small ideas into scalable plat
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/react-%23F05033.svg?style=for-the-badge&logo=react&logoColor=purple)
 
 ---
 
